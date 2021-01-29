@@ -20,5 +20,9 @@
   "homepage": "https://github.com/m-ayyaz/paint#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1"
   }
 }
