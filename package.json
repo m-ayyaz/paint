@@ -24,6 +24,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
     "bootstrap": "^4.6.0",
+    "bootstrap-social": "^5.1.1",
     "ionicons": "^5.4.0",
     "jquery": "^3.5.1"
   }
